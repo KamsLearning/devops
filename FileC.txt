@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is fileC - pull request
+=======
+"This is File C- feature-2" 
+>>>>>>> feature-2
